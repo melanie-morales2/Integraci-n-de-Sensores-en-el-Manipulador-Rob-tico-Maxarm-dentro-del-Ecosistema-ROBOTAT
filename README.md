@@ -13,3 +13,5 @@ Contenidos:
 2. Código de calibración de sensores con rutina de movimimiento
 3. Interfaz gráfica
 4. Librería de Calibración
+5. Archivos en Inventor para recrear la regla ajustable
+
