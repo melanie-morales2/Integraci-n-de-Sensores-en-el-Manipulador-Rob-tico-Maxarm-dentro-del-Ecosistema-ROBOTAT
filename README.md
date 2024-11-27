@@ -9,9 +9,7 @@ Incluye:
 El proyecto busca mejorar la interacción y precisión del manipulador robótico en aplicaciones industriales y de investigación, proporcionando una base sólida para futuras implementaciones.
 
 Contenidos:
-1.Código fuente para el manipulador robótico (ESP32, Arduino).
-2.Scripts de calibración y procesamiento de datos.
-3.Interfaz gráfica en MATLAB App Designer.
-4.Archivos JSON para la configuración y comunicación de sensores.
-5. Documentación técnica.
-
+1. Código de calibración de sensores
+2. Código de calibración de sensores con rutina de movimimiento
+3. Interfaz gráfica
+4. Librería de Calibración
